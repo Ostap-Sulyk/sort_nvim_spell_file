@@ -90,7 +90,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "sort_spell_file"
+name = "sort_nvim_spell_file"
 version = "0.1.0"
 dependencies = [
  "dirs",
