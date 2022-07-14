@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Ostap Sulyk"]
 edition = "2021"
 description = "Program to sort words in neovim dicrionary file"
-lisence = "MIT"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
